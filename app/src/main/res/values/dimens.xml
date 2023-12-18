@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_textview_horizontal">4dp</dimen>
+    <dimen name="margin_textview_vertical">4dp</dimen>
+    <dimen name="card_elevation">100dp</dimen>
+    <dimen name="card_corner_radius">3dp</dimen>
+    <dimen name="padding_recyclerView">6dp</dimen>
+    <dimen name="padding_item_view">4dp</dimen>
+</resources>
