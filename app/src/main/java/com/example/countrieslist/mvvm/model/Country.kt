@@ -5,4 +5,5 @@ data class Country(
     val region: String,
     val code: String,
     val capital: String,
+    val anupamaTest:String
 )
